@@ -1,2 +1,2 @@
-# InvestmentStrategy
-Drafting investment startegy
+# in st
+Drafting in str
